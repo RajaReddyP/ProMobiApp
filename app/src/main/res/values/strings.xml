@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProMobi</string>
+    <string name="image">image</string>
+    <string name="new_york_times">The New York Times Developer Network API Calls And Data</string>
+    <string name="movie_reviews_api">Movie Reviews API</string>
+    <string name="most_popular">Most Popular API</string>
+    <string name="top_stories">Top Stories API</string>
+    <string name="detail_info">Detail Info</string>
+
+    <string name="publish_date">"Publish Date: %s"</string>
+</resources>

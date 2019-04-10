@@ -1,0 +1,5 @@
+
+osquid:UselessImportCheck"?Remove this unused import 'io.reactivex.schedulers.Schedulers'.(š‰¢Žúÿÿÿÿ8¦ÔÈ“ -
+nsquid:CommentedOutCodeLineK"<This block of commented-out lines of code should be removed.(¯´°Ðÿÿÿÿÿ8ú“¹“ -
+nsquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(²áâÖÿÿÿÿÿ8ú“¹“ -
+isquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.(ÄùÜ¥8ú“¹“ -
